@@ -6,7 +6,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-Istall dependencies (pytest)
+Install dependencies (pytest)
 ```shell
 pip3 install -r requirements.txt
 ```
